@@ -1,0 +1,15 @@
+Exercício Final
+Criar um sistema de Escola
+
+Regras de Negócio
+A escola possuí professores, alunos, disciplinas e turmas. 
+Cada professor possuí nome, data nascimento e formação (1-Bacharel. 2-Doutor)
+Cada alunos possuí nome, data nascimento e nível escolaridade (1-Fundamental. 2 - Médio)
+Cada disciplina possuí uma descrição
+Cada turma posssuí descrição, disciplina, professor, alunos, ano.
+
+
+Análise de Requisitos
+O sistema deverá realizar o cadastro de professores, alunos, disciplinas e turmas *
+Um aluno só pode ser inscrito numa turma caso nivel escolar = Médio. *
+O número máximo de alunos por turma é igual a 3. *
